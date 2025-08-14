@@ -57,33 +57,37 @@ Om alles eerlijk, soepel en vooral gezellig te laten verlopen, gelden de volgend
     - Er zijn mooie prijzen voor de topteams én originele extra’s voor creativiteit en inzet.
     - Meedoen is belangrijker dan winnen, maar winnen is natuurlijk wél leuk.
   9. Vragen of Problemen?
-    - Tijdens de Kwis is de organisatie bereikbaar via: **06-xxxxxxxx** / **06-xxxxxxxx**.
+    - Tijdens de Kwis is de organisatie bereikbaar via: **06-xxxxxxxx** / **06-xxxxxxxx**. # TODO
     - Bij twijfel of discussie beslist de organisatie.
 
 Heel veel succes en vooral heel veel plezier tijdens deze feestelijke editie van de **Dorpskwis Duizel** – in het teken van **1000 jaar samen**!
 
 ## 25 Muziek intro
 
-1. <audio controls controlsList="nodownload">De audiobestanden zijn nog niet beschikbaar</audio>
-2. <audio controls controlsList="nodownload">De audiobestanden zijn nog niet beschikbaar</audio>
-3. <audio controls controlsList="nodownload">De audiobestanden zijn nog niet beschikbaar</audio>
-4. <audio controls controlsList="nodownload">De audiobestanden zijn nog niet beschikbaar</audio>
-5. <audio controls controlsList="nodownload">De audiobestanden zijn nog niet beschikbaar</audio>
-6. <audio controls controlsList="nodownload">De audiobestanden zijn nog niet beschikbaar</audio>
-7. <audio controls controlsList="nodownload">De audiobestanden zijn nog niet beschikbaar</audio>
-8. <audio controls controlsList="nodownload">De audiobestanden zijn nog niet beschikbaar</audio>
-9. <audio controls controlsList="nodownload">De audiobestanden zijn nog niet beschikbaar</audio>
-10. <audio controls controlsList="nodownload">De audiobestanden zijn nog niet beschikbaar</audio>
+| Vraag | Audio |
+| --- | --- |
+| 178. | <audio controls controlsList="nodownload" src="https://github.com/duizel1000/duizel1000.github.io/raw/refs/heads/main/muziek-intro/placeholder.mp3">Je browser ondersteund deze audiobestanden niet. Probeer een nieuwere browser of een andere computer</audio> |
+| 179. | <audio controls controlsList="nodownload" src="https://github.com/duizel1000/duizel1000.github.io/raw/refs/heads/main/muziek-intro/placeholder.mp3">Je browser ondersteund deze audiobestanden niet. Probeer een nieuwere browser of een andere computer</audio> |
+| 180. | <audio controls controlsList="nodownload" src="https://github.com/duizel1000/duizel1000.github.io/raw/refs/heads/main/muziek-intro/placeholder.mp3">Je browser ondersteund deze audiobestanden niet. Probeer een nieuwere browser of een andere computer</audio> |
+| 181. | <audio controls controlsList="nodownload" src="https://github.com/duizel1000/duizel1000.github.io/raw/refs/heads/main/muziek-intro/placeholder.mp3">Je browser ondersteund deze audiobestanden niet. Probeer een nieuwere browser of een andere computer</audio> |
+| 182. | <audio controls controlsList="nodownload" src="https://github.com/duizel1000/duizel1000.github.io/raw/refs/heads/main/muziek-intro/placeholder.mp3">Je browser ondersteund deze audiobestanden niet. Probeer een nieuwere browser of een andere computer</audio> |
+| 183. | <audio controls controlsList="nodownload" src="https://github.com/duizel1000/duizel1000.github.io/raw/refs/heads/main/muziek-intro/placeholder.mp3">Je browser ondersteund deze audiobestanden niet. Probeer een nieuwere browser of een andere computer</audio> |
+| 184. | <audio controls controlsList="nodownload" src="https://github.com/duizel1000/duizel1000.github.io/raw/refs/heads/main/muziek-intro/placeholder.mp3">Je browser ondersteund deze audiobestanden niet. Probeer een nieuwere browser of een andere computer</audio> |
+| 185. | <audio controls controlsList="nodownload" src="https://github.com/duizel1000/duizel1000.github.io/raw/refs/heads/main/muziek-intro/placeholder.mp3">Je browser ondersteund deze audiobestanden niet. Probeer een nieuwere browser of een andere computer</audio> |
+| 186. | <audio controls controlsList="nodownload" src="https://github.com/duizel1000/duizel1000.github.io/raw/refs/heads/main/muziek-intro/placeholder.mp3">Je browser ondersteund deze audiobestanden niet. Probeer een nieuwere browser of een andere computer</audio> |
+| 187. | <audio controls controlsList="nodownload" src="https://github.com/duizel1000/duizel1000.github.io/raw/refs/heads/main/muziek-intro/placeholder.mp3">Je browser ondersteund deze audiobestanden niet. Probeer een nieuwere browser of een andere computer</audio> |
 
 ## 26 Muziek doorgedraaid
 
-1. <audio controls controlsList="nodownload">De audiobestanden zijn nog niet beschikbaar</audio>
-2. <audio controls controlsList="nodownload">De audiobestanden zijn nog niet beschikbaar</audio>
-3. <audio controls controlsList="nodownload">De audiobestanden zijn nog niet beschikbaar</audio>
-4. <audio controls controlsList="nodownload">De audiobestanden zijn nog niet beschikbaar</audio>
-5. <audio controls controlsList="nodownload">De audiobestanden zijn nog niet beschikbaar</audio>
-6. <audio controls controlsList="nodownload">De audiobestanden zijn nog niet beschikbaar</audio>
-7. <audio controls controlsList="nodownload">De audiobestanden zijn nog niet beschikbaar</audio>
-8. <audio controls controlsList="nodownload">De audiobestanden zijn nog niet beschikbaar</audio>
-9. <audio controls controlsList="nodownload">De audiobestanden zijn nog niet beschikbaar</audio>
-10. <audio controls controlsList="nodownload">De audiobestanden zijn nog niet beschikbaar</audio>
+| Vraag | Audio |
+| --- | --- |
+| 188. | <audio controls controlsList="nodownload" src="https://github.com/duizel1000/duizel1000.github.io/raw/refs/heads/main/muziek-intro/placeholder.mp3">Je browser ondersteund deze audiobestanden niet. Probeer een nieuwere browser of een andere computer</audio> |
+| 189. | <audio controls controlsList="nodownload" src="https://github.com/duizel1000/duizel1000.github.io/raw/refs/heads/main/muziek-intro/placeholder.mp3">Je browser ondersteund deze audiobestanden niet. Probeer een nieuwere browser of een andere computer</audio> |
+| 190. | <audio controls controlsList="nodownload" src="https://github.com/duizel1000/duizel1000.github.io/raw/refs/heads/main/muziek-intro/placeholder.mp3">Je browser ondersteund deze audiobestanden niet. Probeer een nieuwere browser of een andere computer</audio> |
+| 191. | <audio controls controlsList="nodownload" src="https://github.com/duizel1000/duizel1000.github.io/raw/refs/heads/main/muziek-intro/placeholder.mp3">Je browser ondersteund deze audiobestanden niet. Probeer een nieuwere browser of een andere computer</audio> |
+| 192. | <audio controls controlsList="nodownload" src="https://github.com/duizel1000/duizel1000.github.io/raw/refs/heads/main/muziek-intro/placeholder.mp3">Je browser ondersteund deze audiobestanden niet. Probeer een nieuwere browser of een andere computer</audio> |
+| 193. | <audio controls controlsList="nodownload" src="https://github.com/duizel1000/duizel1000.github.io/raw/refs/heads/main/muziek-intro/placeholder.mp3">Je browser ondersteund deze audiobestanden niet. Probeer een nieuwere browser of een andere computer</audio> |
+| 194. | <audio controls controlsList="nodownload" src="https://github.com/duizel1000/duizel1000.github.io/raw/refs/heads/main/muziek-intro/placeholder.mp3">Je browser ondersteund deze audiobestanden niet. Probeer een nieuwere browser of een andere computer</audio> |
+| 195. | <audio controls controlsList="nodownload" src="https://github.com/duizel1000/duizel1000.github.io/raw/refs/heads/main/muziek-intro/placeholder.mp3">Je browser ondersteund deze audiobestanden niet. Probeer een nieuwere browser of een andere computer</audio> |
+| 196. | <audio controls controlsList="nodownload" src="https://github.com/duizel1000/duizel1000.github.io/raw/refs/heads/main/muziek-intro/placeholder.mp3">Je browser ondersteund deze audiobestanden niet. Probeer een nieuwere browser of een andere computer</audio> |
+| 197. | <audio controls controlsList="nodownload" src="https://github.com/duizel1000/duizel1000.github.io/raw/refs/heads/main/muziek-intro/placeholder.mp3">Je browser ondersteund deze audiobestanden niet. Probeer een nieuwere browser of een andere computer</audio> |
