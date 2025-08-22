@@ -43,7 +43,7 @@ Om alles eerlijk, soepel en vooral gezellig te laten verlopen, gelden de volgend
     - Vraag gerust familie, buren of vrienden om hulp. Samen weet je meer!
     - AI (zoals ChatGPT) gebruiken mag, maar je blijft natuurlijk zelf verantwoordelijk voor het goede antwoord.
 6. Foto-opdrachten
-    - Sommige opdrachten vragen om een foto of filmpje als bewijs. Zorg dat deze **goed zichtbaar, origineel en tijdig** ingeleverd zijn via [mailto:dorpsquiz@duizel1000.nl](dorpsquiz@duizel1000.nl).
+    - Sommige opdrachten vragen om een foto of filmpje als bewijs. Zorg dat deze **goed zichtbaar, origineel en tijdig** ingeleverd zijn via [dorpsquiz@duizel1000.nl](mailto:dorpsquiz@duizel1000.nl).
     - Vermeld bij de ingeleverde foto's altijd je teamnaam.
     - Let op: bonuspunten voor creativiteit!
 7. Fair Play
@@ -54,7 +54,7 @@ Om alles eerlijk, soepel en vooral gezellig te laten verlopen, gelden de volgend
     - De uitslag wordt bekendgemaakt tijdens de **prijsuitreiking op zondag 7 september om 18u op het smisplein** (tijdens de dorpsreünie).
     - Meedoen is belangrijker dan winnen, maar winnen is natuurlijk wél leuk.
   9. Vragen of Problemen?
-    - Tijdens de Kwis is de organisatie bereikbaar via: **[tel:0610125984](06-10125984)**.
+    - Tijdens de Kwis is de organisatie bereikbaar via: **[06-10125984](tel:0610125984)**.
     - Bij twijfel of discussie beslist de organisatie.
 
 Heel veel succes en vooral heel veel plezier tijdens deze feestelijke editie van de **Dorpskwis Duizel** – in het teken van **1000 jaar samen**!
