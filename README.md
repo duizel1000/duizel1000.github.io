@@ -59,6 +59,8 @@ Om alles eerlijk, soepel en vooral gezellig te laten verlopen, gelden de volgend
 
 Heel veel succes en vooral heel veel plezier tijdens deze feestelijke editie van de **Dorpskwis Duizel** – in het teken van **1000 jaar samen**!
 
+# Download [hier](https://raw.githubusercontent.com/duizel1000/duizel1000.github.io/refs/heads/main/Dorpsquiz.pdf) de quizvragen!
+
 ## 24 Muziek intro
 
 Welke hits (titel en artiest) hoor jij?
