@@ -1,4 +1,4 @@
-# Bekijk hier de [Antwoorden](https://github.com/duizel1000/duizel1000.github.io/blob/eccfd784d4194e2f222f376a5c081de462131d92/dorpsquiz-2025-met-antwoorden.pdf) van de Dorpskwis Duizel | 1000 jaar dorpstrots!
+# Bekijk hier de [Antwoorden](https://github.com/duizel1000/duizel1000.github.io/releases/download/v1.0.0/dorpsquiz-2025-met-antwoorden.pdf) van de Dorpskwis Duizel | 1000 jaar dorpstrots!
 
 ###### (Ga snel naar [24 Muziek intro](#24-muziek-intro) of [25 Muziek doorgedraaid](#25-muziek-doorgedraaid))
 
