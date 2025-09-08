@@ -1,5 +1,7 @@
 # Dorpskwis Duizel | 1000 jaar dorpstrots
 
+## Bekijk hier de [Antwoorden](https://github.com/duizel1000/duizel1000.github.io/raw/refs/heads/main/dorpsquiz-2025-met-antwoorden.pdf) van de dorpsquiz!
+
 ###### (Ga snel naar [24 Muziek intro](#24-muziek-intro) of [25 Muziek doorgedraaid](#25-muziek-doorgedraaid))
 
 Wat een mijlpaal: ons prachtige dorp bestaat maar liefst 1000 jaar! En dat laten we natuurlijk niet onopgemerkt voorbijgaan. Eén van de hoogtepunten van dit feestjaar? De enige echte Dorpskwis Duizel – bomvol vragen, opdrachten en gezelligheid!
