@@ -18,3 +18,37 @@ Zorg dat de hulplijnen paraat staan, verdeel de vragen slim, en maak er vooral e
 Heel veel succes en vooral héél veel plezier!
 
 Anouk, Gerrit, Koen, Moniek, Rens, Sophie, Steffi
+
+## Uitslag Dorpskwis Duizel 1000 jaar 2025
+
+| Plaats | Teamnaam | Punten |
+| --- | --- | --- |
+| 1 | De Paardenwei | 302 |
+| 2 | Hatsa Lotus | 301 |
+| 3 | De Bezemwagen | 295 |
+| 4 | Nog meer Moat = Moat | 294 |
+| 5 | Familie Hakkens | 290 |
+| 6 | Sint Jannekes | 287 |
+| 7 | De Zwetsers | 286 |
+| 8 | Moat = Moat | 285 |
+| 8 | De Duizelige 1000-poten | 285 | 
+| 10 | A3 en de Rest | 283 |
+| 11 | Per Seconde Grijzer | 268 |
+| 12 | Sint Jannekes 2 | 264 |
+| 12 | JR | 264 |
+| 14 | Makkelijk Zat | 263 |
+| 15 | De Kwekerds | 256 |
+| 15 | Van Uppe | 256 |
+| 17 | De Floortjes | 252 |
+| 18 | FF Duyselen | 248 |
+| 18 | SpoorweGen & Co | 248 |
+| 20 | Familie Verhees | 242 |
+| 21 | 't Zooike 1 | 239 |
+| 22 | Jayyy | 233 |
+| 23 | Zwammersdynastie | 225 |
+| 23 | New Kids | 225 |
+| 25 | De Broekies | 219 |
+| 26 | Quizted @ Smetsakker | 214 |
+| 27 | 't Zooike 2 | 194 |
+| 28 | De Kwakende Quizers | 173 |
+| 29 | De Bruukskes | 172 |
